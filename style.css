@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+header {
+    text-align: start;
+    padding-left: 30px;
+}
+#banner {
+    width: 100%;
+}
+
+#enfasis {
+    font-weight: bolder;
+}
+
+.presentación {
+    background-color: #788199;
+    padding: 20px;
+    text-align: center;
+}
+
+.imagenCorteBarba {
+    width: 50%;
+}
+
+.misión {
+    background-color: #65727c;
+    border: solid 1px black;
+}
+
+.diferenciales {
+    background: white;
+    padding: 30px;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    vertical-align:top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales {
+    width: 50%;
+}
+
+
+
+
+
